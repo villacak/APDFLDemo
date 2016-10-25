@@ -1,0 +1,19 @@
+package com.proquest.demo.enums;
+
+/**
+ * Created by kvillaca on 7/1/16.
+ */
+public enum  MessagesKeys {
+
+    SUCCESS,
+    FAILURE,
+    EMPTY_OBJECT_LIST,
+    ALL_DATA_DID_PROCESS_WITH_SUCCESS,
+    READ_FILE_WITH_SUCCESS,
+    DELETE_FILE_WITH_SUCCESS,
+    FILE_NOT_FOUND,
+    PAGE_TO_REMOVE_IS_BIGGER_THEN_MAX_PAGES_NUMBER,
+    S3_RETURN_NULL,
+    PDF_CANNOT_HAVE_ITS_ONLY_PAGE_REMOVED,
+   ;
+}

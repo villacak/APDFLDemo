@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="com.datalogics.PDFL">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../java/libs/APDFL15.0.0/Java/com.datalogics.PDFL.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
